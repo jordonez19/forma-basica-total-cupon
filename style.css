@@ -1,0 +1,22 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+html
+{
+    height: 100vh;
+}
+
+.container.text-center {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin-top: 45px;
+
+}
+
+body{
+    background-color: black;
+}
